@@ -274,7 +274,8 @@ a {
     .navbar {
         flex-direction: column;
     }
-
+   .nav{
+    gap: 12px;}
     .btn {
         font-size: 1rem;
         padding: 8px;
@@ -375,7 +376,7 @@ a {
 
 
     .icons {
-        padding: 0px 10px 0px 2px;
+        padding:0px;
         height: 10px;
     }
 
