@@ -275,7 +275,8 @@ a {
         flex-direction: column;
     }
    .nav{
-    gap: 12px;}
+    gap: 5px;
+   }
     .btn {
         font-size: 1rem;
         padding: 8px;
