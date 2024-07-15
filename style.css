@@ -216,7 +216,8 @@ a {
     animation-timing-function: ease-out;
 }
 .projects{
-    display: flex;
+    display: grid;
+    grid-template-columns:1fr 1fr;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
